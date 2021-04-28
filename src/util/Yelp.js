@@ -1,4 +1,4 @@
-const apiKey = 'ytI8s2EyQ73rmrcg06gIGUkRu8IXzOEi-mnK7twHxw1_FBMm8mIUfdqjr03fX4QBOsfnjpfqJWX4yELVzRU7rG_cEf2-eZxat0FmWGjv9DROix-6r9VhUl4ft6iHYHYx'
+const apiKey = ''
   ;
 
 const Yelp = {
